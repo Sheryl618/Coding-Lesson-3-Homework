@@ -1,0 +1,7 @@
+camp=('c','a','m','p')
+print(camp[2])
+
+camp=('c','a','m','p')
+if 'p' in camp:
+    print(camp)
+
