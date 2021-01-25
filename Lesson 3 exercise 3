@@ -1,0 +1,7 @@
+number_list = {'a' : '1',
+               'b' : '2',
+               'c' : '3',
+               'd' : '4'}
+               
+del number_list['b']
+print(number_list)
