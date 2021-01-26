@@ -5,3 +5,4 @@ camp=('c','a','m','p')
 if 'p' in camp:
     print(camp)
 
+len(camp)
